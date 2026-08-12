@@ -1,0 +1,93 @@
+/* 页面整体 */
+body {
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+.page__content {
+  font-size: 1.02rem;
+}
+
+.page__content p {
+  margin-bottom: 1.15em;
+}
+
+/* 标题 */
+.page__content h2 {
+  margin-top: 2.3rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-weight: 700;
+}
+
+.page__content h3 {
+  margin-top: 1.7rem;
+  font-weight: 650;
+}
+
+/* 顶部导航 */
+.masthead {
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.greedy-nav a {
+  font-weight: 600;
+}
+
+/* 侧边栏头像 */
+.author__avatar img {
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* 页面卡片感 */
+.archive__item {
+  padding: 1.25rem 1.4rem;
+  margin-bottom: 1.4rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 14px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* 链接 */
+.page__content a,
+.archive__item a {
+  text-decoration: none;
+  font-weight: 550;
+}
+
+.page__content a:hover,
+.archive__item a:hover {
+  text-decoration: underline;
+}
+
+/* 列表 */
+.page__content ul {
+  padding-left: 1.3rem;
+}
+
+.page__content li {
+  margin-bottom: 0.35rem;
+}
+
+/* 按钮 */
+.btn {
+  border-radius: 999px;
+}
+
+/* 手机端 */
+@media (max-width: 768px) {
+  .page__content {
+    font-size: 0.98rem;
+  }
+
+  .archive__item {
+    padding: 1rem;
+  }
+}
