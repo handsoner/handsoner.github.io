@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Development of disease diagnosis technology based on coattention cross-fusion of multiomics data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-multiomics-coattention
+date: 2025-03-07
+venue: "Analytica Chimica Acta"
+paperurl: "https://doi.org/10.1016/j.aca.2025.343919"
+citation: '<strong>Mingtao Wu</strong>, Chen Chen, Xuguang Zhou, Hao Liu, Yujia Ren, Jin Gu, Xiaoyi Lv, Cheng Chen. (2025). "Development of disease diagnosis technology based on coattention cross-fusion of multiomics data." <i>Analytica Chimica Acta</i>, 1351, 343919.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+A coattention cross-fusion framework for disease diagnosis using multiomics data, including vibrational spectroscopy and metabolomics.
