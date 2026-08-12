@@ -7,15 +7,18 @@ author_profile: true
 
 <div class="cv-header">
 
-# 吴铭涛 · Mingtao Wu
+#  Mingtao Wu
 
 **Ph.D. Student in Computer Science and Technology**  
+
 Xinjiang University
 
 Biomedical Multimodal Fusion · Artificial Intelligence for Medical Diagnosis
 
 [Email](mailto:597312235@qq.com) ·
+
 [GitHub](https://github.com/handsoner) ·
+
 [Publications](/publications/)
 
 </div>
