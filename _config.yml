@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "吴铭涛 | Academic Homepage"
 title_separator          : "-"
 name                     : &name "吴铭涛"
-description              : &description "吴铭涛的学术主页：新疆大学计算机科学与技术博士研究生，研究方向为生物医学多模态融合与智能医疗诊断。"
+description              : &description "吴铭涛的学术主页：新疆大学计算机科学与技术博士研究生"
 url                      : https://handsoner.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,9 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Diagnosis of systemic lupus erythematosus using cross-modal specific transfer fusion technology based on infrared spectra and metabolomics'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Analytica Chimica Acta,JCR 1, 中科院1区'    
   conferences:
     title: 'Conference Papers'
 
