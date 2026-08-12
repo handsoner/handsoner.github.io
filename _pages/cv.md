@@ -1,64 +1,59 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **2023.09 – 2028.06 (Expected)**  
+  Ph.D. Student in Computer Science and Technology  
+  Xinjiang University  
+  Research Area: Biomedical Multimodal Fusion
+
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Biomedical Intelligent Medical Diagnosis
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Deep-learning-based disease diagnosis using multimodal biomedical data
+* Data modalities include infrared spectroscopy and Raman spectroscopy
+* Applications include thyroid diseases, cancer, and systemic lupus erythematosus
+* Responsibilities: implementation, manuscript preparation, and submission
+
+
+### Artificial Intelligence Application Development
+
+* Computer vision and artificial intelligence applications
+* Object detection and tracking
+* Gesture recognition
+* Image recognition
+* Handwritten character recognition
+* Face recognition
+
+
+Projects
+======
+
+### Online Bookstore
+
+* SSM + MySQL + Axios
+* User registration and authentication
+* Login interception and access control
+* Order management and unique order generation
+
+
+Honors & Awards
+======
+
+* National Scholarship, 2024
+* Outstanding Graduate Student, 2024
+* Outstanding Graduate, 2023
+* "Three-Good Student" Scholarship, 2021–2022
+* Outstanding Student Leader Scholarship, 2019–2021
+* Intermediate Software Engineer Certification
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming: Python, Java, C
+* Web: HTML, CSS, JavaScript
+* English: CET-6
+* Project proposal and academic writing
