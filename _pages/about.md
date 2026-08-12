@@ -9,13 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am currently a Ph.D. student in Computer Science and Technology at
-Xinjiang University. My research focuses on biomedical multimodal fusion,
-deep learning, and intelligent medical diagnosis.
+I am currently a Ph.D. student in Computer Science and Technology at Xinjiang University. My research focuses on artificial intelligence for medical diagnosis, biomedical multimodal/multiomics fusion, and deep learning.
 
-My current research explores the integration of multimodal biomedical data,
-including spectroscopic and other omics data, for computer-aided disease
-diagnosis.
+My current work investigates how multimodal biomedical data, including infrared spectroscopy, Raman spectroscopy, and metabolomics, can be effectively integrated for intelligent disease diagnosis. I am particularly interested in cross-modal representation learning, feature interaction, and multimodal fusion methods for diseases such as systemic lupus erythematosus, thyroid cancer, and other cancers.
+
+I have published research in Analytica Chimica Acta and Scientific Reports, including work on multiomics coattention fusion, cross-modal specific transfer fusion, and multimodal separation and cross-fusion networks.
 
 ## Research Interests
 
