@@ -1,267 +1,315 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
 
-<div class="cv-header">
+<div class="cv-hero" markdown="1">
 
-#  Mingtao Wu
+# Mingtao Wu
 
-**Ph.D. Student in Computer Science and Technology**  
+<div class="cv-role">
+Ph.D. Student in Computer Science and Technology
+</div>
 
-Xinjiang University
+**Xinjiang University**
 
-Biomedical Multimodal Fusion · Artificial Intelligence for Medical Diagnosis
+Biomedical Multimodal Fusion · Multiomics Learning · AI for Medical Diagnosis
 
-[Email](mailto:597312235@qq.com) ·
-
-[GitHub](https://github.com/handsoner) ·
-
-[Publications](/publications/)
+<div class="cv-actions">
+<a href="mailto:597312235@qq.com">Email</a>
+<a href="https://github.com/handsoner">GitHub</a>
+<a href="/publications/">Publications</a>
+</div>
 
 </div>
 
 
 ## Education
 
-<div class="cv-card">
+<div class="cv-entry">
+
+<div class="cv-entry-date">
+2023 — 2028
+</div>
+
+<div class="cv-entry-body" markdown="1">
 
 ### Xinjiang University
 
 **Ph.D. Student in Computer Science and Technology**  
-*2023.09 – 2028.06 (Expected)*
+Master's–Ph.D. integrated program
 
-- Master's-Ph.D. integrated program
-- Research Area: **Biomedical Multimodal Fusion**
-- School of Computer Science and Technology
-- Research interests include multimodal/multiomics learning, deep learning, and intelligent medical diagnosis
+Research Area: **Biomedical Multimodal Fusion**
+
+My research focuses on multimodal/multiomics learning, deep learning,
+and artificial intelligence for medical diagnosis.
+
+</div>
 
 </div>
 
 
 ## Research Interests
 
-<div class="cv-tags">
-
-<span>Biomedical Multimodal Fusion</span>
-<span>Multiomics Learning</span>
-<span>Artificial Intelligence in Healthcare</span>
+<div class="cv-tag-list">
+<span>Biomedical AI</span>
+<span>Multimodal Learning</span>
+<span>Multiomics Fusion</span>
 <span>Deep Learning</span>
+<span>Cross-modal Learning</span>
 <span>Infrared Spectroscopy</span>
 <span>Raman Spectroscopy</span>
 <span>Metabolomics</span>
-<span>Cross-modal Learning</span>
-
 </div>
 
 
 ## Research Experience
 
-<div class="cv-card">
+<div class="cv-entry">
+
+<div class="cv-entry-date">
+2023 — Present
+</div>
+
+<div class="cv-entry-body" markdown="1">
 
 ### Biomedical Intelligent Medical Diagnosis
 
-**Research Project**
+Developing deep-learning methods for accurate disease diagnosis using
+multimodal biomedical and multiomics data.
 
-Developing artificial intelligence and deep-learning methods for precise
-disease diagnosis using multimodal biomedical and multiomics data.
+**Modalities**
 
-**Data modalities**
+Infrared spectroscopy · Raman spectroscopy · Metabolomics
 
-- Infrared spectroscopy
-- Raman spectroscopy
-- Metabolomics
-- Other biomedical omics data
+**Applications**
 
-**Disease applications**
+Systemic lupus erythematosus · Thyroid diseases · Cancer
 
-- Thyroid diseases
-- Cancer
-- Systemic lupus erythematosus (SLE)
+**Research activities**
 
-**Responsibilities**
-
-- Deep-learning model implementation
-- Multimodal data analysis
+- Deep-learning model development
+- Multimodal representation learning
+- Feature interaction and fusion
 - Experimental design and evaluation
-- Academic manuscript writing
-- Paper submission and revision
+- Academic manuscript writing and submission
 
+</div>
 </div>
 
 
-<div class="cv-card">
+<div class="cv-entry">
+
+<div class="cv-entry-date">
+2025 — Present
+</div>
+
+<div class="cv-entry-body" markdown="1">
 
 ### Graduate Innovation Research Project
 
 **Principal Investigator**
 
-- Provincial-level Graduate Innovation Research Project
-- Project No.: **XJ2025G085**
-- Research focus: biomedical artificial intelligence and multimodal medical data analysis
+Provincial-level Graduate Innovation Research Project  
+Project No. **XJ2025G085**
+
+Research on biomedical artificial intelligence and multimodal medical
+data analysis.
 
 </div>
-
-
-<div class="cv-card">
-
-### Artificial Intelligence Application Development
-
-Developed multiple computer-vision and artificial-intelligence applications
-based on digital image processing and cloud AI technologies.
-
-**Applications**
-
-- Moving object detection
-- Object tracking
-- Gesture recognition
-- Image content recognition
-- Handwritten character recognition
-- Face recognition
-
-**Responsibilities**
-
-- Requirement analysis
-- Code implementation
-- Technical documentation
-- Project organization and presentation
-
-</div>
-
-
-## Selected Software Project
-
-<div class="cv-card">
-
-### Online Bookstore
-
-A web-based bookstore system developed collaboratively according to
-user requirements.
-
-**Technology Stack**
-
-`SSM` · `MySQL` · `Axios`
-
-**Main Contributions**
-
-- Implemented asynchronous validation for registration and login
-- Implemented login authentication and access control
-- Designed order submission workflow
-- Generated unique order identifiers and associated purchased books with orders
-- Prepared project documentation and presentation materials
-
 </div>
 
 
 ## Publications
 
-<div class="cv-highlight">
+<div class="cv-publication">
 
-### Research Publications
+<span class="cv-year">2025</span>
 
-- **Two CAS Q1 journal papers accepted as first/co-first author**
-- One additional CAS Q1 journal manuscript under review
+<div markdown="1">
 
-[View complete publication list →](/publications/)
+### Development of disease diagnosis technology based on coattention cross-fusion of multiomics data
 
+**Mingtao Wu**, Chen Chen, Xuguang Zhou, Hao Liu, Yujia Ren, Jin Gu,
+Xiaoyi Lv, Cheng Chen
+
+*Analytica Chimica Acta*, 1351, 343919.
+
+[DOI](https://doi.org/10.1016/j.aca.2025.343919)
+
+</div>
+</div>
+
+
+<div class="cv-publication">
+
+<span class="cv-year">2024</span>
+
+<div markdown="1">
+
+### Diagnosis of systemic lupus erythematosus using cross-modal specific transfer fusion technology based on infrared spectra and metabolomics
+
+Cheng Chen, **Mingtao Wu**, Enguang Zuo, Xue Wu, Lijun Wu,
+Hao Liu, Xuguang Zhou, Yang Du, Xiaoyi Lv, Chen Chen
+
+*Analytica Chimica Acta*, 1330, 343302.  
+**Co-first author**
+
+[DOI](https://doi.org/10.1016/j.aca.2024.343302)
+
+</div>
+</div>
+
+
+<div class="cv-publication">
+
+<span class="cv-year">2024</span>
+
+<div markdown="1">
+
+### Multimodal separation and cross fusion network based on Raman spectroscopy and FTIR spectroscopy for diagnosis of thyroid malignant tumor metastasis
+
+Haitao Song, Xuguang Zhou, Cheng Chen, Chao Dong, Yuyang He,
+**Mingtao Wu**, Jun Yu, Xiangnan Chen, Yanpeng Li, Binlin Ma
+
+*Scientific Reports*, 14, 29125.
+
+[DOI](https://doi.org/10.1038/s41598-024-80590-0)
+
+</div>
+</div>
+
+<div class="cv-more">
+<a href="/publications/">View full publication list →</a>
+</div>
+
+
+## Selected Projects
+
+<div class="cv-entry">
+
+<div class="cv-entry-date">
+AI
+</div>
+
+<div class="cv-entry-body" markdown="1">
+
+### Artificial Intelligence Application Development
+
+Developed computer-vision and AI applications involving:
+
+- Moving object detection
+- Object tracking
+- Gesture recognition
+- Image recognition
+- Handwritten character recognition
+- Face recognition
+
+</div>
+</div>
+
+
+<div class="cv-entry">
+
+<div class="cv-entry-date">
+Web
+</div>
+
+<div class="cv-entry-body" markdown="1">
+
+### Online Bookstore
+
+**Technology:** SSM · MySQL · Axios
+
+Implemented user authentication, asynchronous registration and login
+validation, access control, order submission, and unique order generation.
+
+</div>
 </div>
 
 
 ## Honors & Awards
 
-<div class="cv-timeline">
+<div class="cv-awards">
 
-**2024**
+<div>
+<span>2024</span>
+<strong>National Scholarship</strong>
+</div>
 
-- 🏆 National Scholarship
-- 🎓 Outstanding Graduate Student
+<div>
+<span>2024</span>
+<strong>Outstanding Graduate Student</strong>
+</div>
 
-**2023**
+<div>
+<span>2023</span>
+<strong>Outstanding Graduate</strong>
+</div>
 
-- 🎓 Outstanding Graduate
+<div>
+<span>2021–2022</span>
+<strong>“Three-Good Student” Scholarship</strong>
+</div>
 
-**2021 – 2022**
+<div>
+<span>2019–2021</span>
+<strong>Outstanding Student Leader Scholarship</strong>
+</div>
 
-- 🏅 "Three-Good Student" Scholarship
+</div>
 
-**2019 – 2021**
 
-- 🏅 Outstanding Student Leader Scholarship — awarded for two consecutive years
+## Skills
+
+<div class="cv-skill-grid">
+
+<div markdown="1">
+
+### Programming
+
+**Python · Java**  
+C · HTML · CSS · JavaScript
+
+</div>
+
+<div markdown="1">
+
+### AI & Research
+
+Deep Learning  
+Multimodal Learning  
+Computer Vision  
+Biomedical Data Analysis
+
+</div>
+
+<div markdown="1">
+
+### Tools
+
+PyTorch  
+Git / GitHub  
+MySQL  
+Word · PowerPoint
+
+</div>
+
+<div markdown="1">
+
+### Languages
+
+Chinese — Native  
+Cantonese — Proficient  
+English — CET-6
+
+</div>
 
 </div>
 
 
 ## Professional Qualification
 
-<div class="cv-card">
-
-### Intermediate Software Engineer
-
-Professional qualification in software engineering.
-
-</div>
-
-
-## Technical Skills
-
-<div class="cv-skills">
-
-### Programming
-
-- **Proficient:** Python, Java
-- **Familiar:** C
-- **Web:** HTML, CSS, JavaScript
-
-### Artificial Intelligence
-
-- Deep Learning
-- Multimodal Learning
-- Computer Vision
-- Biomedical Data Analysis
-- Spectroscopic Data Analysis
-
-### Development
-
-- SSM
-- MySQL
-- Axios
-- PyTorch
-- Git / GitHub
-
-### Academic Skills
-
-- Academic manuscript writing
-- Research proposal preparation
-- Project documentation
-- Technical presentation
-- Word and PowerPoint
-
-</div>
-
-
-## Languages
-
-<div class="cv-card">
-
-- Chinese: Native
-- Cantonese: Proficient
-- English: **CET-6**
-- Mandarin Proficiency Test: Level 2-B
-
-</div>
-
-
-## Additional Experience
-
-<div class="cv-card">
-
-During my undergraduate studies, I served as a party affairs assistant
-for approximately two and a half years, assisting faculty members with
-organizational work and document review.
-
-This experience strengthened my communication, documentation,
-organization, and teamwork skills.
-
-</div>
+**Intermediate Software Engineer**
