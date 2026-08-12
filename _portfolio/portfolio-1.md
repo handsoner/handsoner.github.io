@@ -1,7 +1,30 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Biomedical Intelligent Medical Diagnosis"
+excerpt: "Deep-learning-based disease diagnosis using multimodal biomedical data."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Biomedical Intelligent Medical Diagnosis
+
+This project focuses on intelligent disease diagnosis using multimodal
+biomedical data.
+
+### Data Modalities
+
+- Infrared spectroscopy
+- Raman spectroscopy
+- Metabolomics
+
+### Applications
+
+- Systemic lupus erythematosus
+- Thyroid diseases
+- Cancer diagnosis
+
+### Research Tasks
+
+- Deep learning model development
+- Multimodal representation learning
+- Feature fusion
+- Model evaluation
+- Manuscript preparation
