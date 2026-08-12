@@ -17,11 +17,13 @@ I have published research in Analytica Chimica Acta and Scientific Reports, incl
 
 ## Research Interests
 
-- Biomedical Multimodal Fusion
-- Artificial Intelligence in Healthcare
+- Biomedical Multimodal / Multiomics Fusion
+- Artificial Intelligence for Medical Diagnosis
 - Deep Learning
-- Medical Data Analysis
-- Spectroscopic Data Analysis
+- Infrared & Raman Spectroscopy
+- Metabolomics
+- Cross-modal Representation Learning
+- Multimodal Feature Fusion
 
 ## Education
 
